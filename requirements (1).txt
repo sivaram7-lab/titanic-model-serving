@@ -1,0 +1,15 @@
+fastapi==0.141.1
+geopandas==1.2.0
+joblib==1.6.0
+pandas==2.2.3
+pandas-datareader==0.11.1
+pandas-gbq==0.30.0
+pandas-stubs==2.2.3.250527
+pydantic==2.14.1
+pydantic_core==2.50.1
+requests==2.32.4
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+scikit-learn==1.6.1
+sklearn-pandas==2.2.0
+uvicorn==0.54.0
